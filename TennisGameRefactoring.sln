@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGameRefactoring", "TennisGameRefactoring\TennisGameRefactoring.csproj", "{C90612D5-9739-4D4D-85BC-7665BC4A8DE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TennisGameRefactoring", "TennisGameRefactoring\TennisGameRefactoring.csproj", "{C90612D5-9739-4D4D-85BC-7665BC4A8DE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGameRefactoringTest", "TennisGameTest\TennisGameRefactoringTest.csproj", "{B3DE666E-89A4-471B-9076-332D56AE2C58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TennisGameRefactoring.Tests", "TennisGameRefactoring.Tests\TennisGameRefactoring.Tests.csproj", "{B3DE666E-89A4-471B-9076-332D56AE2C58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
